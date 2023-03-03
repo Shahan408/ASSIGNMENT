@@ -114,9 +114,11 @@ body {
 
 .two img {
     width: 260px;
-    margin: 70px 0px 0px 100px;
-    height: 321px;
+    margin: 0px 0px 0px 60px;
+    height: 416px;
+    border-radius: 20px;
 }
+
 
 .three {
     margin: 40px 46px 0px 0px;
